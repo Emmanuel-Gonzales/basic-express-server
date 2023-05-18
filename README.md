@@ -12,6 +12,8 @@ Building a slimple express server that utilized middleware
 
 - [GitHub Actions ci/cd](https://github.com/Emmanuel-Gonzales/basic-express-server/actions);
 
+-[Deployed Site](https://basic-express-server-1vnx.onrender.com)
+
 ### Collaborators
 
 401d53
